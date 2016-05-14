@@ -5,6 +5,11 @@ package com.learn.sorting;
  */
 public class sortHelper {
 
+  public static void print(int[] input, String msg) {
+    System.out.print(msg);
+    print(input);
+  }
+
   public static void print(int[] input) {
     for (int i : input) {
       System.out.print(i + " ");
