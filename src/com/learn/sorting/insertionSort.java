@@ -1,5 +1,16 @@
 package com.learn.sorting;
 
+
+/**
+ * Goal:
+ *  1. Every iteration removes an element from input data and inserts into the correct position in already sorted array
+ *
+ * Disadvantage:
+ *  1. Worst Performance
+ *  2. Time Complexity O(n to power 2)
+ */
+
+
 public class insertionSort extends sortHelper {
   public static void main(String[] args) {
     System.out.println("Insertion Sort");
