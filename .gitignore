@@ -1,6 +1,9 @@
 /.idea
 /out
 /diff.xml
+/editor.xml
+/codestyles
+/inspection
 /_mac
 /web-browsers.xml
 /multimarkdown.shared.xml
