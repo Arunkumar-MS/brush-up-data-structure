@@ -1,5 +1,16 @@
 package com.learn.sorting;
 
+/**
+ * Goal:
+ *  1. At the end of one iteration the biggest element is at the end of the array
+ *  2. We will continue until we sort the array
+ *  3. Its stops iterating when swapped is false to get rid of unnecessary iterating
+ *
+ * Disadvantage:
+ *  1. Worst Performance
+ *  2. Time Complexity O(n to power 2)
+ */
+
 public class bubbleSortImproved extends sortHelper{
   public static void main(String args[]){
     System.out.println("Bubble Sort - Improved");
