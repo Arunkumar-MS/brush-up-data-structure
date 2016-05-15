@@ -7,7 +7,7 @@ package com.learn.sorting;
  *
  * Disadvantage:
  *  1. Worst Performance
- *  2. Time Complexity O(n
+ *  2. Time Complexity O(n to power 2)
  */
 
 public class bubbleSort extends sortHelper {
