@@ -1,3 +1,10 @@
 /.idea
 /out
 /diff.xml
+/_mac
+/web-browsers.xml
+/multimarkdown.shared.xml
+/IntelliLang.xml
+/ignore.xml
+/debugger.xml
+/code.style.schemes.xml
